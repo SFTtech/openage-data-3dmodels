@@ -13,6 +13,7 @@ _the openage authors_ are:
 | Full name                      | aliases                      | E-Mail                                        |
 |--------------------------------|------------------------------|-----------------------------------------------|
 | Jonas Jelten                   | TheJJ                        | jj à sft dawt mx                              |
+| simonsan                       | simonsan                     | simon à systemli dawt org                     |
 
 
 If you're a first-time commiter, add yourself to the above list. This is not

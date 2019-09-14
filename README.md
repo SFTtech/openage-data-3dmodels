@@ -22,7 +22,9 @@ For further information and the author list, see [copying.md](copying.md).
 Contributing
 ============
 
-Guides for creation of assets can be found [in our documentation](https://github.com/SFTtech/openage-modding).
+Guides for submitting assets can be found [in our documentation](doc/README.md).
+
+Guides and tips for creating assets are in the [openage-modding repository](https://github.com/SFTtech/openage-modding).
 
 
 Contact
